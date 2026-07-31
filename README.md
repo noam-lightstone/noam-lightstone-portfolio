@@ -33,6 +33,7 @@ I’m currently interested in roles such as:
 * BI Engineer or BI Developer
 * Data Engineer
 * Data Scientist
+* Analytics Manager
 
 ## Tools I use
 
